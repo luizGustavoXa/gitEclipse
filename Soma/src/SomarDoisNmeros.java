@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-class SomarDoisNmeros {
+class SomarDoisNmeros { //clase
 	public static Scanner sc = new Scanner(System.in);
 	
 	public static void main (String args[]){
